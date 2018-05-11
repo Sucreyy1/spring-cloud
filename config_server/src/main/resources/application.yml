@@ -1,6 +1,8 @@
 spring:
   application:
     name: config-server
+  #表示从本工程的/config/应用名称和common文件夹下取配置文件
+  #还可以配置到svn和git取文件,暂时从本工程取
   cloud:
       config:
         server:

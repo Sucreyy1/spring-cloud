@@ -1,3 +1,4 @@
+#此配置表示在config配置中心取名字为cloud_application和common的后缀为test的配置文件
 spring:
   cloud:
     config:
