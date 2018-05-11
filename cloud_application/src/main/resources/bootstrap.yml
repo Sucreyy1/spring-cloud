@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      name: cloud_application,common
+      uri: http://localhost:9997
+      profile: test
