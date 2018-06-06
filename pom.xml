@@ -12,6 +12,7 @@
         <module>eureka_server</module>
         <module>cloud_application</module>
         <module>config_server</module>
+        <module>gateway_service</module>
     </modules>
     <name>Springboot Maven Webapp</name>
     <url>http://maven.apache.org</url>
